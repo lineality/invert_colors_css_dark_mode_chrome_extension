@@ -1,7 +1,10 @@
-### invert_colors_minimal_chrome_extension
+### invert_colors_css_dark_mode_chrome_extension
 ## Dark Mode: eye-saving invert colors minimal chrome browser extension
 
 # About Invert Colors Minimal
+
+Use extension button to activate, reload page to deactivate.
+Invert colors on white/light-mode pages to make them dark-mode safe for your eyes. Open source minimal code for your scrutiny. 
 
 ## Description
 With security, transparency, and data-hygiene in mind: 
@@ -87,6 +90,9 @@ The only option available for this version, for security, is the first.
 There is a simpler version that runs on all urls with no permissions required,
 but that is considered dangerous by google. 
 
+https://github.com/lineality/invert_colors_minimal_chrome_extension 
+
+But it is extremely simple code, and can be set to run on common URL's differently. But it does not toggle. 
 
 # For Firefox:
 This is a firefox extension (not by me) that at least shows
